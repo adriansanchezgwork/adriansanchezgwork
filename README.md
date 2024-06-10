@@ -1,6 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Adrián Sánchez</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://linkedin.com/in/adriansanchez-garcia">Adrián Sánchez</a> 👋</h1>
 </div>
+
 <img src="[[https://i.imgur.com/weNbhGZ.pn](https://imgur.com/a/3aNgWuv)g](https://imgur.com/a/3aNgWuv)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
