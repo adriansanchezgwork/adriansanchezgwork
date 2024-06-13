@@ -24,7 +24,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 - 📗 Blog [Medium](https://medium.com/@adriansg1991)
 <br>
 
-## Proyectos *bombitas*
+## Proyectos
 <table>
 <tr>
 <td width="50%">
