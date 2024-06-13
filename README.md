@@ -11,12 +11,10 @@
 
 ## Sobre mi
 
-- ⭐ Licenciado en Administración y Dirección de empresas ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- 🏫 Licenciado en Administración y Dirección de empresas 
+- 📊 Contabilidad | Finanzas | Reporting
+- 💹 Análisis de datos: Python |Power BI | SQL |Excel
 - 📗 Blog [Medium)](https://medium.com/@adriansg1991)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
 ## Proyectos *bombitas*
