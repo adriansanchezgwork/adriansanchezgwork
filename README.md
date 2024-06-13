@@ -7,8 +7,9 @@ Mi nombre es Adrián y soy graduado en Administración y Dirección de Empresas.
 
 Además, me he especializado en el análisis de datos utilizando herramientas como Python, SQL, Power BI y Excel. Esta combinación de habilidades técnicas y conocimiento contable me permite automatizar y optimizar tareas en departamentos contables y financieros como en otros departamentos. Gracias a mi formación en administración de empresas, puedo no solo analizar datos de manera efectiva, sino también asegurarme de que estos análisis estén alineados con los objetivos estratégicos y financieros de la organización.
 
-Estoy convencido de que mi perfil puede estar alineado con los objetivos de su empresa y que puedo sumar valor de manera significativa. ¡No duden en considerarme para cualquier oportunidad que pueda surgir!
+Si considerás que mi perfil puede estar alineado con los objetivos de su empresa y que puedo sumar valor de manera significativa, no duden en considerarme para cualquier oportunidad que pueda surgir.
 <img src="[[https://i.imgur.com/weNbhGZ.pn](https://imgur.com/a/3aNgWuv)g](https://imgur.com/a/3aNgWuv)">
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/tu-nombre)
 
 
 ## Sobre mi
