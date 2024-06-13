@@ -10,7 +10,9 @@ Además, me he especializado en el análisis de datos utilizando herramientas co
 Si considerás que mi perfil puede estar alineado con los objetivos de su empresa y que puedo sumar valor de manera significativa, no duden en considerarme para cualquier oportunidad que pueda surgir.
 <img src="[[https://i.imgur.com/weNbhGZ.pn](https://imgur.com/a/3aNgWuv)g](https://imgur.com/a/3aNgWuv)">
 
-[![LinkedIn]([https://img.icons8.com/color/48/000000/linkedin.png)]((https://www.linkedin.com/in/adriansanchez-garcia/))
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/adriansanchez-garcia/)
+
+
 
 
 
