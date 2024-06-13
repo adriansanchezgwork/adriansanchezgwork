@@ -14,7 +14,7 @@
 - 🏫 Licenciado en Administración y Dirección de empresas 
 - 📊 Contabilidad | Finanzas | Reporting
 - 💹 Análisis de datos: Python |Power BI | SQL |Excel
-- 📗 Blog [Medium)](https://medium.com/@adriansg1991)
+- 📗 Blog [(Medium)](https://medium.com/@adriansg1991)
 <br>
 
 ## Proyectos *bombitas*
