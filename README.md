@@ -96,7 +96,8 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
 </a>
 </p>
-<p><strong>Aprende a crear tu CV digital con Streamlit y Python</strong> - Streamlit es una herramienta de código abierto que facilita la creación de aplicaciones web interactivas con Python. **Imagina tener tu CV digital interactivo** que no solo muestre tu experiencia y habilidades, sino que también ofrezca una experiencia dinámica para quienes lo visiten. </p>
+<p><strong>Aprende a crear tu CV digital con Streamlit y Python</strong>
+Streamlit es una herramienta de código abierto que facilita la creación de aplicaciones web interactivas con Python. **Imagina tener tu CV digital interactivo** que no solo muestre tu experiencia y habilidades, sino que también ofrezca una experiencia dinámica para quienes lo visiten. </p>
 </div>
                                                                                       
 </td>  
