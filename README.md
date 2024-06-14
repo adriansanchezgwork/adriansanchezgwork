@@ -61,7 +61,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 
 </a>
 </p>
-<p><strong>Proyectos ETL con Python</strong> - Utiliza Pandas y NumPy junto a librerías de visualización de datos como Matplotlib y Seaborn para completar tu proceso ETL. <strong>Transforma y visualiza tus datos de manera efectiva</strong>, optimizando tus análisis y presentaciones con estas herramientas integrales.</p>
+<p><strong>Proyectos ETL con Pandas, Numpy y librerías de visualización de datos</strong> - Utiliza Pandas y NumPy junto a librerías de visualización de datos como Matplotlib y Seaborn para completar tu proceso ETL. <strong>Transforma y visualiza tus datos de manera efectiva</strong>, optimizando tus análisis y presentaciones con estas herramientas integrales.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
