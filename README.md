@@ -53,7 +53,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 </a>
 <br>
 <p>
-<a href="<a href="https://github.com/adriansg1991/AutomationsReportsProcesses" target="_blank">
+<a href="https://github.com/adriansg1991/AutomationsReportsProcesses" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
