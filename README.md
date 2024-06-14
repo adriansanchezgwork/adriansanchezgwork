@@ -39,7 +39,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 
 </a>
 </p>
-<p><strong>Aprende a programar aplicaciones ETL con Python</strong> - Diferentes procesos ETL con Python con las librerías pandas, numpy, matplotlib y seaborn.</p>
+<p><strong>Proyectos ETL con Python</strong> - Aquí podrás ver Diferentes procesos ETL con Python con las librerías pandas, numpy, matplotlib y seaborn.</p>
 </div>
                                                                                       
 </td>
