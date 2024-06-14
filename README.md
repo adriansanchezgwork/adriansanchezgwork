@@ -48,7 +48,9 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
                <br>
 <h3 align="center">ETL con Python</h3>
 <div align="center">                                       
-<a href="https://github.com/adriansg1991/ETL_Python target="_blank"><img src="https://i.imgur.com/496YOye.png" width="400" alt="ETL con Python"></a>
+<a href="https://github.com/adriansg1991/ETL_Python target="_blank">
+<img src="https://i.imgur.com/496YOye.png" width="400" alt="ETL con Python">
+</a>
 <br>
 <p>
 <a href="<a href="https://github.com/adriansg1991/AutomationsReportsProcesses" target="_blank">" target="_blank">
