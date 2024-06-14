@@ -31,7 +31,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <h3 align="center">Automatización procesos/reporting</h3>
 <div align="center">
 <a href="https://github.com/adriansg1991/AutomationsReportsProcesses" target="_blank">
-<img src="https://imgur.com/UbdXc2Y" width="400" alt="Automatización procesos/reporting"></a>
+<img src="https://i.imgur.com/UbdXc2Y.png" width="400" alt="Automatización procesos/reporting"></a>
 <p>
 <a href="https://github.com/adriansg1991/AutomationsReportsProcesses" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
