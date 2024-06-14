@@ -40,7 +40,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 
 </a>
 </p>
-<p><strong>Proyectos reales de automatización de procesos y reporting en empresas</strong> - Usa librerías de Python como Pandas, NumPy, Selenium, OpenpyXL y Tkinter para automatizar procesos y generar reportes eficientes en tu empresa. **Optimiza tus flujos de trabajo** y mejora la precisión de tus informes con estas poderosas herramientas.</p>
+<p><strong>Proyectos reales de automatización de procesos y reporting en empresas</strong> - Usa librerías de Python como Pandas, NumPy, Selenium, OpenpyXL y Tkinter para automatizar procesos y generar reportes eficientes en tu empresa. <strong>Optimiza tus flujos de trabajo</strong> y mejora la precisión de tus informes con estas poderosas herramientas.</p>
 </div>
                                                                                       
 </td>
