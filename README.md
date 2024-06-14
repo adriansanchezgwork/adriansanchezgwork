@@ -61,7 +61,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p><strong>Proyectos ETL con Python</strong> - Aquí podrás ver diferentes procesos ETL con Python con las librerías pandas, numpy, matplotlib y seaborn.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
