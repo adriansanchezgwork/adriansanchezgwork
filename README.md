@@ -72,7 +72,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <td width="50%">
 <h3 align="center">Extraer datos de pdfs - PyPDF2</h3>
 <div align="center">
-<a href="https://github.com/adriansg1991/ExtractDataPyPDF" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Extraer datos de pdfs - PyPDF2"></a>
+<a href="https://github.com/adriansg1991/ExtractDataPyPDF" target="_blank"><img src="https://i.imgur.com/ju9LSSW.png" width="400" alt="Extraer datos de pdfs - PyPDF2"></a>
 <p>
 <a href="https://github.com/adriansg1991/ExtractDataPyPDF" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
