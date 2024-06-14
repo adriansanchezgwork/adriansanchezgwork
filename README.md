@@ -96,7 +96,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
 </a>
 </p>
-<p>Aprende a hacer tu CV digital con Stramlit programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p><strong>Aprende a crear tu CV digital con Streamlit y Python</strong> - Streamlit es una herramienta de código abierto que facilita la creación de aplicaciones web interactivas con Python. **Imagina tener tu CV digital interactivo** que no solo muestre tu experiencia y habilidades, sino que también ofrezca una experiencia dinámica para quienes lo visiten. </p>
 </div>
                                                                                       
 </td>  
