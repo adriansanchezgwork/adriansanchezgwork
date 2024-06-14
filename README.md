@@ -88,7 +88,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <td width="50%">
 <h3 align="center">Digital CV - Streamlit</h3>
 <div align="center">
-<a href="https://github.com/adriansg1991/DigitalCV_Streamlit" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Digital CV - Streamlit"></a>
+<a href="https://github.com/adriansg1991/DigitalCV_Streamlit" target="_blank"><img src="https://i.imgur.com/Tdv0qQe.png" width="400" alt="Digital CV - Streamlit"></a>
 <p>
 <a href="https://github.com/adriansg1991/DigitalCV_Streamlit" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
