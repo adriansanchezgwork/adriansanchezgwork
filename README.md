@@ -80,7 +80,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 </a>
 </p>
-<p>Aprende a extraer datos de PDF'ss <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p><strong>Utiliza Python como OCR gracias a PyPDF2</strong> - PyPDF2 es una librería de Python que permite manipular archivos PDF de manera sencilla. Con PyPDF2, puedes extraer datos y texto de PDFs, facilitando el proceso de análisis y procesamiento de documentos. <strong>Convierte tus PDFs en datos utilizables</strong> y optimiza tus flujos de trabajo con esta poderosa herramienta.</p>
 </div>
                                                                                       
 </td>       
