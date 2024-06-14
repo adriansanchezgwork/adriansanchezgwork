@@ -48,7 +48,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
                <br>
 <h3 align="center">ETL con Python</h3>
 <div align="center">                                       
-<a href="https://github.com/adriansg1991/ETL_Python target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="ETL con Python"></a>
+<a href="https://github.com/adriansg1991/ETL_Python target="_blank"><img src="https://github.com/adriansanchezgwork/adriansanchezgwork/blob/main/ETLPython.png" width="400" alt="ETL con Python"></a>
 <br>
 <p>
 <a href="[https://github.com/ArisGuimera/SimpleAndroidMVV](https://github.com/adriansg1991/ETL_Python)M" target="_blank">
