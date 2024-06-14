@@ -67,17 +67,17 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Extraer datos de pdfs - PyPDF2</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/adriansg1991/ExtractDataPyPDF" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Extraer datos de pdfs - PyPDF2"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/adriansg1991/ExtractDataPyPDF" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aprende a extraer datos de PDF'ss <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>       
