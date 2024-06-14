@@ -28,7 +28,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Automatización procesos/reporting</h3>
 <div align="center">
 <a href="https://github.com/adriansg1991/AutomationsReportsProcesses" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Automatización procesos/reporting"></a>
 <p>
